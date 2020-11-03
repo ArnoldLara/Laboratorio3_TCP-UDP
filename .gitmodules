@@ -10,3 +10,15 @@
 [submodule "TCP/Javascript/tcpServerINFRACOM"]
 	path = TCP/Javascript/tcpServerINFRACOM
 	url = https://github.com/jupardo/tcpServerINFRACOM
+[submodule "UDP-Streaming/Golang/FileTransfer"]
+	path = UDP-Streaming/Golang/FileTransfer
+	url = https://github.com/JuanJTorres11/FileTransfer
+[submodule "UDP-Streaming/Python/Redes_Taller3_2"]
+	path = UDP-Streaming/Python/Redes_Taller3_2
+	url = https://github.com/sofiaalvarezlopez/Redes_Taller3_2
+[submodule "UDP-Streaming/Python/udp_file_transfer_video_streaming"]
+	path = UDP-Streaming/Python/udp_file_transfer_video_streaming
+	url = https://github.com/jsbravoc/udp_file_transfer_video_streaming
+[submodule "UDP-Streaming/Java/laboratorio-3-udp"]
+	path = UDP-Streaming/Java/laboratorio-3-udp
+	url = https://github.com/ggonzr/laboratorio-3-udp
