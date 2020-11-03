@@ -1,0 +1,12 @@
+[submodule "TCP/Golang/FileTransfer"]
+	path = TCP/Golang/FileTransfer
+	url = https://github.com/JuanJTorres11/FileTransfer
+[submodule "TCP/Java/Caso3.1"]
+	path = TCP/Java/Caso3.1
+	url = https://github.com/JDevMen/Caso3.1
+[submodule "TCP/Python/lab3TcpRedes"]
+	path = TCP/Python/lab3TcpRedes
+	url = https://github.com/nicolash0125/lab3TcpRedes
+[submodule "TCP/Javascript/tcpServerINFRACOM"]
+	path = TCP/Javascript/tcpServerINFRACOM
+	url = https://github.com/jupardo/tcpServerINFRACOM
